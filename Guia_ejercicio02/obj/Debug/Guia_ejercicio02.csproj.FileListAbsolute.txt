@@ -1,0 +1,7 @@
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\obj\Debug\Guia_ejercicio02.csprojAssemblyReference.cache
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\obj\Debug\Guia_ejercicio02.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\bin\Debug\Guia_ejercicio02.exe.config
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\bin\Debug\Guia_ejercicio02.exe
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\bin\Debug\Guia_ejercicio02.pdb
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\obj\Debug\Guia_ejercicio02.exe
+C:\Users\debor\OneDrive\Documents\CAI 2021\Ejercicios CSharp\Guia_ejercicio02\Guia_ejercicio02\obj\Debug\Guia_ejercicio02.pdb
